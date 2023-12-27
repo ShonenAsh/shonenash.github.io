@@ -1,4 +1,4 @@
-### Hello! 👋 
+### Hello, I'm Ashish Magadum👋 
 
 <!-- こんにちは! 🍣 Bonjour! 🥖 -->
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently a Data Science graduate student
-- 💼 Previously, I worked as a fullstack developer where I built web apps and services with Java/Spring, Python and React.
-- 🤖 I also dabble in Machine Learning projects
-- 👯 I’m looking to collaborate on Java/Python/JS-based Projects
+- 🎓 I’m a Data Science graduate student at Northeastern University, Boston
+- 💼 Previously, I worked as a fullstack developer where I built Microservices & Webapps with Java/Spring, Python and React.
+- 🤖 Currently, I'm participating in a Kaggle challenge
+- 🎨 I also dabble in art
 
 ### 📫 Contact me:
   <a href="https://www.twitter.com/shonenash/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=flat-square&logo=twitter&logoColor=white"></a>
