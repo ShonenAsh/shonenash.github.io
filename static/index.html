@@ -4,23 +4,26 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,500,800" rel="stylesheet">
     <link rel="stylesheet" href="stylesheet.css" type="text/css">
     <script src="https://unpkg.com/htmx.org@1.9.10"
         integrity="sha384-D1Kt99CQMDuVetoL1lrYwg5t+9QdHe7NLX/SoJYkXDFfX37iInKRy5xLSi8nO7UC"
         crossorigin="anonymous"></script>
-    <title>Anon</title>
+    <title>Ashish Magadum</title>
 </head>
 
 <body>
     <header>
-        <h1 id="name">Ashish Magadum</h1>
-        <nav>
-            <ul>
-                <li><a hx-get="about.html" hx-target="#main-content">About</div></li>
-                <li><a hx-get="porfolio.html" hx-target="#main-content">Portfolio</a></li>
-                <li><a hx-get="contact.html" hx-target="#main-content">Contact</a></li>
-            </ul>
-        </nav>
+        <p id="name">Ashish Magadum</p>
+        <span class="nav-container">
+            <nav>
+                <ul>
+                    <li><a hx-get="about.html" hx-target="#main-content">About</a></li>
+                    <li><a hx-get="porfolio.html" hx-target="#main-content">Portfolio</a></li>
+                    <li><a hx-get="contact.html" hx-target="#main-content">Contact</a></li>
+                </ul>
+            </nav>
+        </span>
     </header>
 
     <section id="main-content">
@@ -36,7 +39,9 @@
         </div> -->
     </section>
 
-    <p>This page is under construction</p>
+    <footer>
+        <p>This page is under construction</p>
+    </footer>
 </body>
 
 </html>
