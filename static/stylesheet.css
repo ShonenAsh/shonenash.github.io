@@ -36,6 +36,7 @@ nav .tab {
 nav .tab:hover {
     background: #555;
     color: white;
+    cursor: pointer;
 }
 
 nav .tab.active {
@@ -45,17 +46,11 @@ nav .tab.active {
 
 #main-content {
     width: 800px;
-    margin: auto;
-    /* display: flex;
-    justify-content: center;
-    width: 800px; */
-}
-
-section {
     padding-left: 50px;
     padding-right: 50px;
-    display: flex;
-    justify-content: center;
+    margin: auto;
+    /* display: flex;
+    justify-content: center; */
 }
 
 /* footer {
