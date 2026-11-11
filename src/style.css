@@ -145,6 +145,10 @@ section p + p {
     margin-top: 1rem;
 }
 
+p {
+    text-align: justify;
+}
+
 h2 {
     font-size: 1.1rem;
     font-weight: 600;
