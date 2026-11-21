@@ -1,6 +1,6 @@
 ### Hello, I'm Ashish Magadum 👋
 
-- 🔬 I'm an AI Engineer on a research team at Northeastern University, studying how documentation structure affects LLM hallucination when models generate code for scientific software.
+- 🔬 I'm an AI Engineer on a Research Intern position at Northeastern University, studying how documentation structure affects LLM hallucination when models generate code for scientific software.
 - 💼 Previously, I was a fullstack engineer at Accenture, building React and Node.js frontends, Python data pipelines and Java/Spring Boot microservices that served 11M+ customers.
 - 🤖 I also interned at a legal-tech startup, building a RAG-based LLM application with Django and React.
 - 🎓 I hold a Master's in Data Science from Northeastern University.
